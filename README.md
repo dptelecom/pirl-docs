@@ -1,3 +1,4 @@
+# THIS PROJECT IS NOT LONGER MAINTAINED HERE. PLEASE VISIT https://git.pirl.io/community/pirl-docs
 # pirl-docs
 pirl-docs
 Place for Pirl Community Documentation
